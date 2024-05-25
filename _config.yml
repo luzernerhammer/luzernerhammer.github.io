@@ -138,7 +138,7 @@ translate_langs:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "auto"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -158,11 +158,11 @@ translate_langs:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "Your awesome heading"
+    subheading: "Your awesome subheading"
+    banner: "https://luzernerhammer.github.io/"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
