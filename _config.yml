@@ -73,7 +73,10 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "ko"  # default lang is en
+
+# TIMEZONE 설정
+timezone: Asia/Seoul
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
