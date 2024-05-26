@@ -158,11 +158,11 @@ night_mode: "auto"
 #   - about.md
 
 # Page default value
-defaults:
-  home:
-    heading: "Your awesome heading"
-    subheading: "Your awesome subheading"
-    banner: "https://luzernerhammer.github.io/"
+# defaults: 
+#   home: null
+  #   heading: "헤드"
+  #   subheading: "Your awesome subheading"
+  #   banner: "https://luzernerhammer.github.io/"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
