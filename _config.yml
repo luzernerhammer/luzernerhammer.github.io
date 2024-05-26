@@ -159,7 +159,7 @@ night_mode: "auto"
 
 # Page default value
 # defaults: 
-#   home: null
+#   home:
   #   heading: "헤드"
   #   subheading: "Your awesome subheading"
   #   banner: "https://luzernerhammer.github.io/"
